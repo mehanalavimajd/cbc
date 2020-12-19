@@ -1,0 +1,21 @@
+{
+  "name": "cbc",
+  "version": "1.0.0",
+  "description": "cbc is a group of css color variables",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehanalavimajd/cbc"
+  },
+  "keywords": [
+    "css",
+    "cbc",
+    "color",
+    "beautiful"
+  ],
+  "author": "mehan alavi majd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehanalavimajd/cbc/issues"
+  },
+  "homepage": "https://github.com/mehanalavimajd/cbc#readme"
+}
